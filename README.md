@@ -8,6 +8,8 @@ Thanks for participating in the recruitment process for a senior frontend develo
 
 The image above shows a simple(and poorly designed) chat application. The chat is divided into several channels. The task is simple - to implement it.
 
+The font used is https://fonts.google.com/specimen/Lato. A view of the website implemented with UXPin can be seen here: https://collaborate.uxpin.com/b8276ce351be48f3b69a32083c263e8fb958430a#/pages/57076903. You should use it for reference with regards to layout, font sizes and colors - not as a reference on how to code it.
+
 You can use CodePen(create a new account and a new pen) or something similar. When you are done working on the site you should send the link to access it to pp@marketscape.com. Please remember that if you select an alternative to CodePen it should follow the these requirements:
 
 * The site should be hosted (when we click the link it should be usable)
@@ -32,7 +34,7 @@ The data is given in a JSON structure. It is structured as follows:
          "messages": [   # A list of messages that belong to the channel
              {"name": "string",    # Name of the person who made the post
               "time": "string",    # Time of the post
-              "message: [],        # List of messages
+              "message: []}        # List of messages
          ]
          "time": "string", # The time where the post was made
       }
@@ -42,4 +44,4 @@ The data is given in a JSON structure. It is structured as follows:
   }
 }
 ```
-The chat rooms have the same format regardless of being a directly with a person or a whole channel.
+The chat rooms have the same layout regardless of being a directly with a person or a whole channel.
