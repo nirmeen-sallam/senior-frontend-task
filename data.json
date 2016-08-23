@@ -1,0 +1,68 @@
+{
+  "channels": {
+    "product": 
+   		{
+   			"purpose": "this channel is for all things product related",
+   			"messages" :
+			    [
+			    	{"name": "Richard",
+			    	 "time": "06:35 AM",
+			    	 "message": ["I just uploaded a new version of our frontpage? The box is weird."]},
+			    	{"name": "Richard",
+			    	 "time": "09:50 AM",
+			    	 "message": ["Anyone has any feedback for this?"]},
+			    	{"name": "Jared",
+			    	 "time": "09:58 AM",
+			    	 "message": ["Where do we want the box positioned", "It's an important decision and we need to make a choice"]},
+			    	{"name": "Erlich",
+			    	 "time": "10:00 AM",
+			    	 "message": "What about putting the box in the top right corner?"}
+			    ],
+   		},
+    "general": 
+        {
+          "purpose": "This channel is for general information and decisions regarding the company",
+          "messages": [
+	    	{"name": "Dinesh",
+	    	 "time": "03:00 AM",
+	    	 "message": ["Regarding the new office I think we should get a conference table"]},
+	    	{"name": "Gilfoyle",
+	    	 "time": "08:13 AM",
+	    	 "message": ["why would you think about that in the middle of the night?", "i agree though"]}
+	        ]
+        },
+    "coffee": 
+    	{
+    		"purpose": "For all coffee-related chats",
+    		"messages": []
+    	},
+    "random":
+    	{
+    		"purpose": "Random videos and discussion. Got something funny? Post it here",
+    		"messages": []
+    	},
+    "internal":
+    	{
+    		"purpose": "Internal decisions regarding hiring new people will be had here",
+    		"messages": []
+    	},
+    "sales":
+    	{
+    		"purpose": "All sales related discussion will be had here",
+    		"messages": []
+    	}
+  },
+  "people": {
+    "richard": [
+    	{"name": "Richard",
+    	 "time": "02:35 PM",
+    	 "message": ["Hey man. Are you here?"]},
+    	{"name": "Erlich",
+    	 "time": "06:35 AM",
+    	 "message": ["Yeah I was just doing some work. What's up?"]}
+    ],
+    "jared": [],
+    "dinesh": [],
+    "gilfoyle": []
+  }
+}
