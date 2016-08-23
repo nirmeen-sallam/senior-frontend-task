@@ -4,7 +4,7 @@ Hi there!
 
 Thanks for participating in the recruitment process for a senior frontend developer at MarketScape. We've made a small task for you.
 
-[image here]
+![Preview](imgs/preview.png)
 
 The image above shows a simple widget for ... The task is simple - to implement it.
 
