@@ -2,13 +2,13 @@
 
 Hi there!
 
-Thanks for participating in the recruitment process for a senior frontend developer at MarketScape. We've made a small task for you.
+Thank you for participating in the recruitment process for a senior frontend developer at MarketScape. We've made a small task for you.
 
 ![Preview](preview.JPG)
 
 The image above shows a simple(and poorly designed) chat application. The chat is divided into several channels. The task is simple - to implement it.
 
-The font used is https://fonts.google.com/specimen/Lato. A view of the website implemented with UXPin can be seen here: https://collaborate.uxpin.com/b8276ce351be48f3b69a32083c263e8fb958430a#/pages/57076903. You should use it for reference with regards to layout, font sizes and colors - not as a reference on how to code it.
+The font used is (Lato)[https://fonts.google.com/specimen/Lato]. A view of the website implemented with UXPin can be seen [here](https://collaborate.uxpin.com/b8276ce351be48f3b69a32083c263e8fb958430a#/pages/57076903). You should use it for reference with regards to layout, font sizes and colors - not as a reference on how to code it.
 
 You can use CodePen(create a new account and a new pen) or something similar. When you are done working on the site you should send the link to access it to pp@marketscape.com. Please remember that if you select an alternative to CodePen it should follow the these requirements:
 
@@ -45,3 +45,7 @@ The data is given in a JSON structure. It is structured as follows:
 }
 ```
 The chat rooms have the same layout regardless of being a directly with a person or a whole channel.
+
+## Feedback
+
+If you have any feedback or questions about this challenge feel free to contact us at pp@marketscape.com
